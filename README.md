@@ -3,7 +3,8 @@
 # Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
 The client Artemis Financial is a financial company that was looking to have software developed for them to send encrypted information from a sever to a client and visa versa.
 
-# What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing? One thing that I did well was my ability to identify vulnerabilities and other security issues. I was then able to bring these issues up to the client and develop a strategy to minimize these risks or completely nullify them.
+# What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing? 
+One thing that I did well was my ability to identify vulnerabilities and other security issues. I was then able to bring these issues up to the client and develop a strategy to minimize these risks or completely nullify them.
 
 # What about the process of working through the vulnerability assessment did you find challenging or helpful?
 I think one of the most challenging things at first was reading the vulnerability report and learning how to digest the information. After spending quite some time on the report and learning about each line item, I was able to accurately identify issues and develop solutions. 
